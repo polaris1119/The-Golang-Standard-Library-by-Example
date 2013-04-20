@@ -7,7 +7,7 @@ Golang标准库。对于程序员而言，标准库与语言本身同样重要�
 
 ## 第一章 输入输出(Input/Output) ##
 
-1.1	io — 基本的IO接口
+1.1	[io — 基本的IO接口](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example/blob/master/chapter01/01.1.md)
 
 1.2 fmt — 格式化IO
 
