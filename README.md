@@ -9,9 +9,11 @@ Golang标准库。对于程序员而言，标准库与语言本身同样重要�
 
 1.1	[io — 基本的IO接口](chapter01/01.1.md)
 
-1.2 fmt — 格式化IO
+1.2 [ioutil — 方便的IO操作函数集](chapter01/01.2.md)
 
-1.3 bufio — 缓存IO
+1.3 fmt — 格式化IO
+
+1.4 bufio — 缓存IO
 
 ## 第二章 文本 ##
 
