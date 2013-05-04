@@ -13,7 +13,7 @@ Golang标准库。对于程序员而言，标准库与语言本身同样重要�
 
 1.3 [fmt — 格式化IO](chapter01/01.3.md)
 
-1.4 bufio — 缓存IO
+1.4 [bufio — 缓存IO](chapter01/01.4.md)
 
 ## 第二章 文本 ##
 
