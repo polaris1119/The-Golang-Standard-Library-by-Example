@@ -19,3 +19,10 @@ Go语言构建的 Go中文社区： [http://studygolang.com](http://studygolang.
 ## 版权声明 ##
 
 本书所有内容遵循 [CC-BY-SA 3.0协议（署名-相同方式共享）](http://zh.wikipedia.org/wiki/Wikipedia:CC-by-sa-3.0%E5%8D%8F%E8%AE%AE%E6%96%87%E6%9C%AC)
+
+
+1.常见误解
+2.常用手法
+3.如何理解，使用
+4.为什么接口如此组织
+5.和其它语言对比优缺点

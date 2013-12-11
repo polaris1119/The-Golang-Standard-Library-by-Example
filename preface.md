@@ -5,8 +5,8 @@
  - 1.4. [bufio — 缓存IO](chapter01/01.4.md)
 * [第二章 文本](chapter02/02.0.md)
  - 2.1. [strings — 字符串操作](chapter02/02.1.md)
- - 2.2. strconv — 基本数据类型和字符串之间转换
- - 2.3. regexp — 正则表达式
+ - 2.2. [strconv — 字符串和基本数据类型之间转换](chapter02/02.2.md)
+ - 2.3. [regexp — 正则表达式](chapter02/02.3.md)
  - 2.4. unicode — Unicode码点、UTF-8/16编码
 * 第三章 数据结构与算法
  - 3.1 container — 容器数据类型：heap、list和ring
