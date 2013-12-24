@@ -12,6 +12,10 @@ Go语言构建的 Go中文社区： [http://studygolang.com](http://studygolang.
 
 [开始阅读，从目录开始](preface.md)
 
+## 贡献者 ##
+
+[hikerell](https://github.com/hikerell)
+
 ## 反馈 ##
 
 由于本人能力有限，书中难免有写的不对之处，且目前所写内容没有经过校正。如果阅读过程中有任何疑问或觉得不对之处，欢迎提出，谢谢！
