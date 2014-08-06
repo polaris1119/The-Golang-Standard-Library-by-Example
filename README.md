@@ -2,7 +2,7 @@
 
 Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。
 
-标准库基于最新版本Go（目前基于 Go1.3）。注：目前 Go 标准库文档并没有标识某个 API 基于哪个版本的 Go，将来会加上这部分(issue)[https://code.google.com/p/go/issues/detail?id=5778]
+标准库基于最新版本Go（目前基于 Go1.3）。注：目前 Go 标准库文档并没有标识某个 API 基于哪个版本的 Go，将来会加上这部分 [issue](https://code.google.com/p/go/issues/detail?id=5778)
 
 ## 交流 ##
 
