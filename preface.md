@@ -29,7 +29,7 @@
  - 7.2 encoding/json — json 解析
  - 7.3 encoding/xml — xml 解析
  - 7.4 encoding/gob — golang 自定义二进制格式
- - 7.5 cvs — 逗号分隔值文件
+ - 7.5 csv — 逗号分隔值文件
 * 第八章 数据压缩与归档
  - 8.1 compress/zlib — gnu zlib压缩
  - 8.2 compress/gzip — 读写gnu zip文件
