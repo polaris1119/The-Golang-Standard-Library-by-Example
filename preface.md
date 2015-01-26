@@ -36,6 +36,8 @@
  - 8.3 compress/bzip2 — bzip2压缩
  - 8.4 archive/tar — tar归档访问
  - 8.5 archive/zip — zip归档访问
+* 第九章 [测试](chapter09/09.0.md)
+ - 9.1 [testing - 测试基本使用接口](chapter09/09.1.md)
 * 第九章 加解密
 * 第十章 进程、线程与goroutine
 * 第十一章 网络通信与互联网（internet）
