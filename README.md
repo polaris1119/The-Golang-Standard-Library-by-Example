@@ -28,7 +28,11 @@ Go语言构建的 Go中文社区：[http://studygolang.com](http://studygolang.c
 
 
 1.常见误解
+
 2.常用手法
+
 3.如何理解，使用
+
 4.为什么接口如此组织
+
 5.和其它语言对比优缺点
