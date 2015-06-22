@@ -24,8 +24,8 @@
  - 6.1 os — 平台无关的操作系统功能实现
  - 6.2 path — 操作路径
  - 6.3 path/filepath — 操作文件名路径
-* 第七章 数据持久存储与交换
- - 7.1 database/sql — SQL/SQL-Like 数据库操作接口
+* [第七章 数据持久存储与交换](chapter07/07.0.md)
+ - 7.1 [database/sql — SQL/SQL-Like 数据库操作接口](chapter07/07.1.md)
  - 7.2 encoding/json — json 解析
  - 7.3 encoding/xml — xml 解析
  - 7.4 encoding/gob — golang 自定义二进制格式
