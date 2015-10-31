@@ -12,7 +12,7 @@
 * [第三章 数据结构与算法](chapter03/03.0.md)
  - 3.1 [sort — 排序算法](chapter03/03.1.md)
  - 3.2 index/suffixarray — 后缀数组实现子字符串查询
- - 3.3 container — 容器数据类型：heap、list和ring
+ - 3.3 [container — 容器数据类型：heap、list和ring](chapter03/03.3.md)
 * 第四章 日期与时间
  - 4.1 time — 日期和时间操作、显示
 * 第五章 数学计算
