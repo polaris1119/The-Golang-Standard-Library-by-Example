@@ -49,4 +49,4 @@
  - 15.2 [unsafe — 非类型安全操作](chapter15/15.02.md)
 * 第十六章 同步
  - 15.1 [sync - 处理同步需求](chapter16/16.01.md)
- - 15.2 atom - 原子操作
+ - 15.2 [sync/atomic - 原子操作](chapter16/16.02.md)
