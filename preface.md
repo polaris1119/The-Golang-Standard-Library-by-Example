@@ -38,7 +38,6 @@
  - 8.5 archive/zip — zip归档访问
 * 第九章 [测试](chapter09/09.0.md)
  - 9.1 [testing - 测试基本使用接口](chapter09/09.1.md)
-* 第九章 加解密
 * 第十章 进程、线程与goroutine
 * 第十一章 网络通信与互联网（internet）
 * 第十二章 email
@@ -48,5 +47,6 @@
  - 15.1 buildin
  - 15.2 [unsafe — 非类型安全操作](chapter15/15.02.md)
 * 第十六章 同步
- - 15.1 [sync - 处理同步需求](chapter16/16.01.md)
- - 15.2 [sync/atomic - 原子操作](chapter16/16.02.md)
+ - 16.1 [sync - 处理同步需求](chapter16/16.01.md)
+ - 16.2 [sync/atomic - 原子操作](chapter16/16.02.md)
+* 第十七章 加解密
