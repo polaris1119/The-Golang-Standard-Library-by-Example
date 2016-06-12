@@ -13,8 +13,11 @@
  - 3.1 [sort — 排序算法](chapter03/03.1.md)
  - 3.2 index/suffixarray — 后缀数组实现子字符串查询
  - 3.3 [container — 容器数据类型：heap、list 和 ring](chapter03/03.3.md)
-* 第四章 日期与时间
- - 4.1 time — 日期和时间操作、显示
+* [第四章 日期与时间](chapter04/04.0.md)
+ - 4.1 [主要类型概述](chapter04/04.1.md)
+ - 4.2 [Time类型详解](chapter04/04.2.md)
+ - 4.3 [定时器](chapter04/04.3.md)
+ - 4.4 [时区](chapter04/04.4.md)
 * 第五章 数学计算
  - 5.1 [math — 基本数学函数](chapter05/05.1.md)
  - 5.2 math/big — 大数实现
@@ -51,4 +54,5 @@
 * 第十六章 同步
  - 16.1 [sync - 处理同步需求](chapter16/16.01.md)
  - 16.2 [sync/atomic - 原子操作](chapter16/16.02.md)
+ - 16.3 [os/signal - 信号](chapter16/16.03.md)
 * 第十七章 加解密
