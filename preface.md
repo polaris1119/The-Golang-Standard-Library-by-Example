@@ -15,9 +15,9 @@
  - 3.3 [container — 容器数据类型：heap、list 和 ring](chapter03/03.3.md)
 * [第四章 日期与时间](chapter04/04.0.md)
  - 4.1 [主要类型概述](chapter04/04.1.md)
- - 4.2 [Time类型详解](chapter04/04.2.md)
- - 4.3 [定时器](chapter04/04.3.md)
- - 4.4 [时区](chapter04/04.4.md)
+ - 4.2 [时区](chapter04/04.2.md)
+ - 4.3 [Time类型详解](chapter04/04.3.md)
+ - 4.4 [定时器](chapter04/04.4.md)
 * 第五章 数学计算
  - 5.1 [math — 基本数学函数](chapter05/05.1.md)
  - 5.2 math/big — 大数实现
