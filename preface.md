@@ -23,8 +23,8 @@
  - 5.2 math/big — 大数实现
  - 5.3 math/cmplx — 复数基本函数操作
  - 5.4 math/rand — 伪随机数生成器
-* 第六章 文件系统
- - 6.1 os — 平台无关的操作系统功能实现
+* 第六章 [文件系统](chapter06/06.0.md)
+ - 6.1 [os — 平台无关的操作系统功能实现](chapter06/06.1.md)
  - 6.2 path — 操作路径
  - 6.3 path/filepath — 操作文件名路径
 * [第七章 数据持久存储与交换](chapter07/07.0.md)
@@ -42,6 +42,10 @@
 * 第九章 [测试](chapter09/09.0.md)
  - 9.1 [testing - 测试基本使用接口](chapter09/09.1.md)
 * 第十章 进程、线程与 goroutine
+ - 进程
+ - 线程
+ - goroutine
+ - channel
 * 第十一章 网络通信与互联网 (Internet)
 * 第十二章 email
 * 第十三章 应用构建、debug 与测试
