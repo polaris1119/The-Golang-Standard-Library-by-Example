@@ -36,7 +36,7 @@ func ReadAndOutputDir(rootPath string, deep int) {
 		for _, fileInfo := range fileInfos {
 			if fileInfo.IsDir() {
 				if deep > 0 {
-					ReadAndOutputDir(filepath.Clean(rootPath+string(os.PathSeparator)+fileInfo.Name()), deep-1)
+					ReadAndOutputDir(filepath.Join(rootPath, string(os.PathSeparator), fileInfo.Name()), deep-1)
 				}
 			} else {
 				fmt.Println("file:", fileInfo.Name(), "in directory:", rootPath)

@@ -12,7 +12,7 @@ Go语言构建的 Go中文社区：[http://studygolang.com](http://studygolang.c
 
 ## 目录 ##
 
-[开始阅读，从目录开始](preface.md)
+[阅读，从目录开始](preface.md)
 
 ## 贡献者 ##
 
