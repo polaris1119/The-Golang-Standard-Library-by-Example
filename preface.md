@@ -40,7 +40,9 @@
  - 8.5 archive/zip — zip 归档访问
 * 第九章 [测试](chapter09/09.0.md)
  - 9.1 [testing - 测试基本使用接口](chapter09/09.1.md)
-* 第十章 进程、线程与 goroutine
+* 第十章 [进程、线程与 goroutine](chapter10/10.0.md)
+ - 10.1 [创建进程](chapter10/10.1.md)
+ - 10.2 [进程属性和控制](chapter10/10.2.md)
 * 第十一章 网络通信与互联网 (Internet)
 * 第十二章 email
 * 第十三章 应用构建、debug 与测试
