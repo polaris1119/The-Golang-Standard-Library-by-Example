@@ -43,7 +43,8 @@
 * 第十章 [进程、线程与 goroutine](chapter10/10.0.md)
  - 10.1 [创建进程](chapter10/10.1.md)
  - 10.2 [进程属性和控制](chapter10/10.2.md)
- - 10.3 [进程间通信](chapter10/10.3.md)
+ - 10.3 [线程](chapter10/10.3.md)
+ - 10.4 [进程间通信](chapter10/10.4.md)
 * 第十一章 网络通信与互联网 (Internet)
 * 第十二章 email
 * 第十三章 应用构建、debug 与测试
