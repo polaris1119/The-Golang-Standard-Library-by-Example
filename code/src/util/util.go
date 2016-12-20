@@ -7,7 +7,6 @@
 package util
 
 import (
-	"bytes"
 	"fmt"
 	"os"
 	"path"
