@@ -32,14 +32,18 @@
  - 7.3 encoding/xml — xml 解析
  - 7.4 encoding/gob — golang 自定义二进制格式
  - 7.5 csv — 逗号分隔值文件
-* 第八章 数据压缩与归档
- - 8.1 compress/zlib — gnu zlib 压缩
- - 8.2 compress/gzip — 读写 gnu zip 文件
- - 8.3 compress/bzip2 — bzip2 压缩
- - 8.4 archive/tar — tar 归档访问
- - 8.5 archive/zip — zip 归档访问
+* [第八章 数据压缩与归档](chapter08/08.0.md)
+ - 8.1 [flate - DEFLATE 压缩算法](chapter08/08.1.md)
+ - 8.2 compress/zlib — gnu zlib 压缩
+ - 8.3 compress/gzip — 读写 gnu zip 文件
+ - 8.4 compress/bzip2 — bzip2 压缩
+ - 8.5 archive/tar — tar 归档访问
+ - 8.6 archive/zip — zip 归档访问
 * 第九章 [测试](chapter09/09.0.md)
- - 9.1 [testing - 测试基本使用接口](chapter09/09.1.md)
+ - 9.1 [testing - 自动化单元测试](chapter09/09.1.md)
+ - 9.2 iotest - io 测试辅助工具
+ - 9.3 quick - 黑盒测试辅助工具
+ - 9.4 httptest - HTTP 测试辅助工具
 * 第十章 [进程、线程与 goroutine](chapter10/10.0.md)
  - 10.1 [创建进程](chapter10/10.1.md)
  - 10.2 [进程属性和控制](chapter10/10.2.md)
