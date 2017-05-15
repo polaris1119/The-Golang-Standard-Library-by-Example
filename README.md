@@ -39,3 +39,5 @@ Go语言构建的 Go语言中文网：[http://studygolang.com](http://studygolan
 4. 为什么接口如此组织
 
 5. 和其它语言对比优缺点
+
+加油
