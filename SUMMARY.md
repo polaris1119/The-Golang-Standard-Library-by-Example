@@ -52,7 +52,11 @@
  - 10.4 [进程间通信](chapter10/10.4.md)
 * 第十一章 网络通信与互联网 (Internet)
 * 第十二章 email
-* 第十三章 应用构建、debug 与测试
+* 第十三章 [应用构建 与 debug](chapter13/13.0.md)
+ - 13.1 [flag - 命令行参数解析](chapter13/13.1.md)
+ - 13.2 [log - 日志记录](chapter13/13.2.md)
+ - 13.3 [expvar - 公共变量的标准化接口](chapter13/13.3.md)
+ - 13.4 [runtime/debug - 运行时的调试工具](chapter13/13.4.md)
 * 第十四章 运行时特性
 * 第十五章 底层库介绍
  - 15.1 builtin
