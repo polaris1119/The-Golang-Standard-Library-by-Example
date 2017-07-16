@@ -41,10 +41,12 @@
  - 8.5 archive/tar — tar 归档访问
  - 8.6 archive/zip — zip 归档访问
 * 第九章 [测试](chapter09/09.0.md)
- - 9.1 [testing - 自动化单元测试](chapter09/09.1.md)
- - 9.2 iotest - io 测试辅助工具
- - 9.3 quick - 黑盒测试辅助工具
- - 9.4 httptest - HTTP 测试辅助工具
+ - 9.1 [testing - 单元测试](chapter09/09.1.md)
+ - 9.2 [testing - 基准测试](chapter09/09.2.md)
+ - 9.3 [testing - 子测试](chapter09/09.3.md)
+ - 9.4 [testing - 运行并验证示例](chapter09/09.4.md)
+ - 9.5 [testing - 其他功能](chapter09/09.5.md)
+ - 9.6 [httptest - HTTP 测试辅助工具](chapter09/09.6.md)
 * 第十章 [进程、线程与 goroutine](chapter10/10.0.md)
  - 10.1 [创建进程](chapter10/10.1.md)
  - 10.2 [进程属性和控制](chapter10/10.2.md)
