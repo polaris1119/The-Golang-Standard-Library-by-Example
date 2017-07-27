@@ -18,6 +18,20 @@ Go语言构建的 Go语言中文网：[http://studygolang.com](http://studygolan
 
 [Go语言中文网——Go语言标准库](http://books.studygolang.com/The-Golang-Standard-Library-by-Example)
 
+## 捐赠 ##
+
+如果您觉得本书对您有帮助，通过微信或支付宝捐赠作者，金额随意！
+
+**由于无法从支付方获取支付者信息，请在支付的留言备注功能中附上 Go语言中文网账户的昵称等信息，以便我们记录！**
+
+###通过微信支付捐赠
+
+![wxpay.png](http://studygolang.qiniudn.com/img/wxpay.png)
+
+###通过支付宝捐赠
+
+![1.png](http://studygolang.qiniudn.com/170605/9d11b43988fbbb42a5da9f970a0f6818.png)
+
 ## 贡献者 ##
 
 [hikerell](https://github.com/hikerell)
