@@ -1,0 +1,115 @@
+{
+    "title": "Go语言标准库",
+    "description": "通过例子学习标准库",
+    "author": "徐新华",
+    "language": "zh-hans",
+    "root": ".",
+    "links": {
+        "sidebar": {
+            "Go语言中文网": "http://studygolang.com"
+        }
+    },
+    "plugins": [
+        "-lunr",
+        "-search",
+        "-livereload",
+        "highlight",
+        "search-plus@^0.0.11",
+        "simple-page-toc@^0.1.1",
+        "github@^2.0.0",
+        "github-buttons@2.1.0",
+        "edit-link@^2.0.2",
+        "disqus@^0.1.0",
+        "anchors@^0.7.1",
+        "include-codeblock@^3.0.2",
+        "emphasize@^1.1.0",
+        "mermaid@^0.0.9",
+        "tbfed-pagefooter@^0.0.1",
+        "expandable-chapters-small@^0.1.7",
+        "sectionx@^3.1.0",
+        "donate@^1.0.2",
+        "sitemap-general",
+        "anchor-navigation-ex",
+        "favicon@^0.0.2",
+        "todo@^0.1.3",
+        "ba"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "showLevel": true
+        },
+        "ba": {
+            "token": "224c227cd9239761ec770bc8c1fb134c"
+        },
+        "disqus": {
+            "shortName": "Go语言中文网"
+        },
+        "github": {
+            "url": "https://github.com/polaris1119/The-Golang-Standard-Library-by-Example"
+        },
+        "github-buttons": {
+            "repo": "polaris1119/The-Golang-Standard-Library-by-Example",
+            "types": [
+                "star"
+            ],
+            "size": "small"
+        },
+        "include-codeblock": {
+            "template": "ace",
+            "unindent": true,
+            "edit": true
+        },
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": true,
+            "google": false,
+            "instapaper": false,
+            "vk": false,
+            "all": [
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "instapaper"
+            ]
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © studygolang.com 2013",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "donate": {
+            "wechat": "http://studygolang.qiniudn.com/img/wxpay.png",
+            "alipay": "http://studygolang.qiniudn.com/170605/9d11b43988fbbb42a5da9f970a0f6818.png",
+            "title": "",
+            "button": "赏",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏"
+        },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        },
+        "edit-link": {
+            "base": "https://github.com/polaris1119/The-Golang-Standard-Library-by-Example/edit/master",
+            "label": "编辑该页面"
+        },
+        "sitemap-general": {
+            "prefix": "http://books.studygolang.com"
+        },
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": false,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        },
+        "sectionx": {
+            "tag": "b"
+        },
+        "favicon": {
+            "shortcut": "favicon.ico",
+            "bookmark": "favicon.ico"
+        }
+    }
+}

@@ -4,9 +4,52 @@ import (
 	"bytes"
 	"html/template"
 	"testing"
+	"time"
 
 	. "chapter09/testing"
 )
+
+// Table-Driven Test
+func TestFib_TableDrivenParallel(t *testing.T) {
+	var fibTests = []struct {
+		name     string
+		in       int // input
+		expected int // expected result
+	}{
+		{"1的Fib", 1, 1},
+		{"2的Fib", 2, 1},
+		{"3的Fib", 3, 2},
+		{"4的Fib", 4, 3},
+		{"5的Fib", 5, 5},
+		{"6的Fib", 6, 8},
+		{"7的Fib", 7, 13},
+	}
+
+	for _, tt := range fibTests {
+		tt := tt
+		t.Run(tt.name, func(t *testing.T) {
+			t.Log("time:", time.Now())
+			t.Parallel()
+			time.Sleep(3 * time.Second)
+			actual := Fib(tt.in)
+			if actual != tt.expected {
+				t.Errorf("Fib(%d) = %d; expected %d", tt.in, actual, tt.expected)
+			}
+		})
+	}
+
+	for _, tt := range fibTests {
+		t.Log("time:", time.Now())
+		actual := Fib(tt.in)
+		if actual != tt.expected {
+			t.Errorf("Fib(%d) = %d; expected %d", tt.in, actual, tt.expected)
+		}
+	}
+
+	defer func() {
+		t.Log("time:", time.Now())
+	}()
+}
 
 func TestFib(t *testing.T) {
 	var (
