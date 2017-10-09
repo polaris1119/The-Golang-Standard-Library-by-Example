@@ -24,7 +24,7 @@
  - 5.2 math/big — 大数实现
  - 5.3 math/cmplx — 复数基本函数操作
  - 5.4 math/rand — 伪随机数生成器
-* 第六章 [文件系统](chapter06/06.0.md)
+* [第六章 文件系统](chapter06/06.0.md)
  - 6.1 [os — 平台无关的操作系统功能实现](chapter06/06.1.md)
  - 6.2 [path/filepath — 操作路径](chapter06/06.2.md)
 * [第七章 数据持久存储与交换](chapter07/07.0.md)
@@ -40,21 +40,21 @@
  - 8.4 compress/bzip2 — bzip2 压缩
  - 8.5 archive/tar — tar 归档访问
  - 8.6 archive/zip — zip 归档访问
-* 第九章 [测试](chapter09/09.0.md)
+* [第九章 测试](chapter09/09.0.md)
  - 9.1 [testing - 单元测试](chapter09/09.1.md)
  - 9.2 [testing - 基准测试](chapter09/09.2.md)
  - 9.3 [testing - 子测试](chapter09/09.3.md)
  - 9.4 [testing - 运行并验证示例](chapter09/09.4.md)
  - 9.5 [testing - 其他功能](chapter09/09.5.md)
  - 9.6 [httptest - HTTP 测试辅助工具](chapter09/09.6.md)
-* 第十章 [进程、线程与 goroutine](chapter10/10.0.md)
+* [第十章 进程、线程与 goroutine](chapter10/10.0.md)
  - 10.1 [创建进程](chapter10/10.1.md)
  - 10.2 [进程属性和控制](chapter10/10.2.md)
  - 10.3 [线程](chapter10/10.3.md)
  - 10.4 [进程间通信](chapter10/10.4.md)
 * 第十一章 网络通信与互联网 (Internet)
 * 第十二章 email
-* 第十三章 [应用构建 与 debug](chapter13/13.0.md)
+* [第十三章 应用构建 与 debug](chapter13/13.0.md)
  - 13.1 [flag - 命令行参数解析](chapter13/13.1.md)
  - 13.2 [log - 日志记录](chapter13/13.2.md)
  - 13.3 [expvar - 公共变量的标准化接口](chapter13/13.3.md)
