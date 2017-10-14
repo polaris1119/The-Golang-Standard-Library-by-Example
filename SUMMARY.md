@@ -47,6 +47,7 @@
  - 9.4 [testing - 运行并验证示例](chapter09/09.4.md)
  - 9.5 [testing - 其他功能](chapter09/09.5.md)
  - 9.6 [httptest - HTTP 测试辅助工具](chapter09/09.6.md)
+ - 9.7 [总结](chapter09/09.7.md)
 * [第十章 进程、线程与 goroutine](chapter10/10.0.md)
  - 10.1 [创建进程](chapter10/10.1.md)
  - 10.2 [进程属性和控制](chapter10/10.2.md)
