@@ -24,14 +24,8 @@ Go语言构建的 Go语言中文网：[http://studygolang.com](http://studygolan
 
 **由于无法从支付方获取支付者信息，请在支付的留言备注功能中附上 Go语言中文网账户的昵称等信息，以便我们记录！**
 
-### 通过微信支付捐赠 ###
-
-![wxpay.png](http://studygolang.qiniudn.com/img/wxpay.png)
-
-### 通过支付宝捐赠 ###
-
-![1.png](http://studygolang.qiniudn.com/170605/9d11b43988fbbb42a5da9f970a0f6818.png)
-
+## 目录 ##
+[目录](eBook/directory.md)
 ## 贡献者 ##
 
 [hikerell](https://github.com/hikerell)
