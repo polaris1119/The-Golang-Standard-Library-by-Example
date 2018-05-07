@@ -25,7 +25,7 @@ Go语言构建的 Go语言中文网：[http://studygolang.com](http://studygolan
 **由于无法从支付方获取支付者信息，请在支付的留言备注功能中附上 Go语言中文网账户的昵称等信息，以便我们记录！**
 
 ## 目录 ##
-[目录](eBook/directory.md)
+[目录](directory.md)
 ## 贡献者 ##
 
 [hikerell](https://github.com/hikerell)
