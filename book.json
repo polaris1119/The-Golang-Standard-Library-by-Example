@@ -36,7 +36,7 @@
     ],
     "pluginsConfig": {
         "theme-default": {
-            "showLevel": true
+            "showLevel": false
         },
         "ba": {
             "token": "224c227cd9239761ec770bc8c1fb134c"
