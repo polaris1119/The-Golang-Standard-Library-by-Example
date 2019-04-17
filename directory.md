@@ -22,7 +22,7 @@
 	- 5.1 [math — 基本数学函数](chapter05/05.1.md)
 - 第6章：[文件系统](06.0.md)
 	- 6.1 [os — 平台无关的操作系统功能实现](chapter06/06.1.md)
-	- 6.2 [path/filepath — 兼容操作系统的文件路径操作](chapter0606.2.md)
+	- 6.2 [path/filepath — 兼容操作系统的文件路径操作](chapter06/06.2.md)
 - 第7章：[数据持久存储与交换](chapter07/07.0.md)
 	- 7.1 [database/sql — SQL/SQL-Like 数据库操作接口](chapter07/07.1.md)
 - 第8章：[数据压缩与归档](chapter08/08.0.md)
@@ -43,10 +43,10 @@
     - 13.1 [flag - 命令行参数解析](chapter13/13.1.md)
     - 13.3 [expvar - 公共变量的标准化接口](chapter13/13.3.md)  
 - 第15章：
-    - 15.2 [非类型安全操作](chapter15/15.2.md)
+    - 15.2 [非类型安全操作](chapter15/15.02.md)
 
 - 第16章：
-    - 16.1 [sync - 处理同步需求](chapter16/16.1.md)
-    - 16.2 [sync/atomic - 原子操作](chapter16/16.2.md)
-    - 16.3 [os/signal - 信号](chapter16/16.3.md)
+    - 16.1 [sync - 处理同步需求](chapter16/16.01.md)
+    - 16.2 [sync/atomic - 原子操作](chapter16/16.02.md)
+    - 16.3 [os/signal - 信号](chapter16/16.03.md)
    
