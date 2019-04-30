@@ -41,7 +41,7 @@
     - 10.3 [线程](chapter10/10.3.md)
 - 第13章：[应用构建 与 debug](chapter13/13.0.md)
     - 13.1 [flag - 命令行参数解析](chapter13/13.1.md)
-    - 13.3 [expvar - 公共变量的标准化接口](chapter13/13.3.md)  
+    - 13.3 [expvar - 公共变量的标准化接口](chapter13/13.3.md)
 - 第15章：
     - 15.2 [非类型安全操作](chapter15/15.2.md)
 
@@ -49,4 +49,3 @@
     - 16.1 [sync - 处理同步需求](chapter16/16.1.md)
     - 16.2 [sync/atomic - 原子操作](chapter16/16.2.md)
     - 16.3 [os/signal - 信号](chapter16/16.3.md)
-   
