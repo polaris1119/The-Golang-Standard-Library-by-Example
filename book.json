@@ -32,7 +32,9 @@
         "anchor-navigation-ex",
         "favicon@^0.0.2",
         "todo@^0.1.3",
-        "ba"
+        "ba",
+		"pageview-count",
+		"qrcode-list"
     ],
     "pluginsConfig": {
         "theme-default": {
@@ -110,6 +112,23 @@
         "favicon": {
             "shortcut": "favicon.ico",
             "bookmark": "favicon.ico"
-        }
+        },
+		"qrcode-list": {
+		  "title": "交流学习",
+		  "description": "如果有疑问或想和我交流，欢迎扫码下方二维码",
+		  "except": [ ],
+		  "lists": [
+			{
+			  "src": "https://static.studygolang.com/static/img/polarisxu-qrcode-m.jpg",
+			  "content": "polarisxu",
+			  "alt": "polarisxu"
+			},
+			{
+			  "src": "https://static.studygolang.com/static/img/gopherstudio2.png",
+			  "content": "gopherstudio",
+			  "alt": "gopherstudio"
+			}
+		  ]
+		}
     }
 }
