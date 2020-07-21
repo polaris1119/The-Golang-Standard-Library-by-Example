@@ -82,8 +82,8 @@
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
         "donate": {
-            "wechat": "http://studygolang.qiniudn.com/img/wxpay.png",
-            "alipay": "http://studygolang.qiniudn.com/170605/9d11b43988fbbb42a5da9f970a0f6818.png",
+            "wechat": "https://static.studygolang.com/img/wxpay.png",
+            "alipay": "https://static.studygolang.com/170605/9d11b43988fbbb42a5da9f970a0f6818.png",
             "title": "",
             "button": "赏",
             "alipayText": "支付宝打赏",
@@ -98,7 +98,7 @@
             "label": "编辑该页面"
         },
         "sitemap-general": {
-            "prefix": "http://books.studygolang.com"
+            "prefix": "https://books.studygolang.com"
         },
         "anchor-navigation-ex": {
             "isRewritePageTitle": false,
