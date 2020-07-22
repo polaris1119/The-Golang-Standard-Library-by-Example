@@ -12,6 +12,10 @@ Golang标准库。对于程序员而言，标准库与语言本身同样重要�
 
 Go语言构建的 Go语言中文网：[http://studygolang.com](http://studygolang.com)
 
+关注作者公众号，加微信好友、进微信交流群。
+
+![](polarisxu-qrcode-small.jpg)
+
 ## 阅读 ##
 
 为了更方便阅读，Go语言中文网搭建了阅读平台，可以更友好的在线阅读。
