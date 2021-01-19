@@ -27,6 +27,7 @@
 * [第六章 文件系统](chapter06/06.0.md)
  - 6.1 [os — 平台无关的操作系统功能实现](chapter06/06.1.md)
  - 6.2 [path/filepath — 操作路径](chapter06/06.2.md)
+ - 6.3 [io/fs - 抽象文件系统](chapter06/06.3.md)
 * [第七章 数据持久存储与交换](chapter07/07.0.md)
  - 7.1 [database/sql — SQL/SQL-Like 数据库操作接口](chapter07/07.1.md)
  - 7.2 encoding/json — json 解析
