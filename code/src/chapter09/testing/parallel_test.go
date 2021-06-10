@@ -2,9 +2,10 @@ package testing_test
 
 import (
 	"bytes"
-	. "chapter09/testing"
 	"html/template"
 	"testing"
+
+	. "../testing"
 )
 
 var pairs = []struct {

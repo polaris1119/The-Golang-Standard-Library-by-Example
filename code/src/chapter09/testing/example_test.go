@@ -1,8 +1,9 @@
 package testing_test
 
 import (
-	. "chapter09/testing"
 	"fmt"
+
+	. "../testing"
 )
 
 func ExampleFib() {

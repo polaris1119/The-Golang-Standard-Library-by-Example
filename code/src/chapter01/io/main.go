@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"util"
+
+	"../../util"
 )
 
 func main() {

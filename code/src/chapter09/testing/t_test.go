@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	. "chapter09/testing"
+	. "../testing"
 )
 
 // Table-Driven Test
