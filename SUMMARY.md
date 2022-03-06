@@ -33,13 +33,13 @@
  - 7.2 encoding/json — json 解析
  - 7.3 encoding/xml — xml 解析
  - 7.4 encoding/gob — golang 自定义二进制格式
- - 7.5 csv — 逗号分隔值文件
+ - 7.5 encoding/csv — 逗号分隔值文件
 * [第八章 数据压缩与归档](chapter08/08.0.md)
  - 8.1 [flate - DEFLATE 压缩算法](chapter08/08.1.md)
  - 8.2 compress/zlib — gnu zlib 压缩
  - 8.3 compress/gzip — 读写 gnu zip 文件
  - 8.4 compress/bzip2 — bzip2 压缩
- - 8.5 archive/tar — tar 归档访问
+ - 8.5 archive/tar — tar 档案读写
  - 8.6 archive/zip — zip 归档访问
 * [第九章 测试](chapter09/09.0.md)
  - 9.1 [testing - 单元测试](chapter09/09.1.md)
