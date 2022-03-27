@@ -6,7 +6,8 @@ import (
 	"io"
 	"os"
 	"strings"
-	"util"
+
+	"../../util"
 )
 
 func ReaderExample() {
